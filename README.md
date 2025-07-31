@@ -1,8 +1,8 @@
-# 🏥 ApolloCare: Hospital Operations & Patient Insights Dashboard
+# 🏥 Papollo Hospital: Hospital Operations & Patient Insights Dashboard
 An advanced Power BI dashboard template designed for healthcare administrators and analysts to visualize and monitor key hospital performance metrics—covering patient flows, departmental efficiency, revenue trends, and service utilization.
 
 # 📌 Short Description / Purpose
-ApolloCare is a comprehensive Power BI report built to support hospital decision-making by providing insights into patient admissions, departmental activity, billing data, treatment types, and bed occupancy. The dashboard equips hospital leadership, medical staff, and operations teams with the data they need to improve patient outcomes and optimize resources.
+Papollo Hospital is a comprehensive Power BI report built to support hospital decision-making by providing insights into patient admissions, departmental activity, billing data, treatment types, and bed occupancy. The dashboard equips hospital leadership, medical staff, and operations teams with the data they need to improve patient outcomes and optimize resources.
 
 # ⚙️ Tech Stack
 The dashboard uses the following tools and components:
@@ -14,7 +14,7 @@ The dashboard uses the following tools and components:
 📁 File Format – .pbit (Power BI Template) for parameterized reuse across hospitals or departments.
 
 # 📂 Data Source
-Source: Simulated Apollo Hospital information system data (or anonymized real-world dataset).
+Source: Simulated Papollo Hospital information system data (or anonymized real-world dataset).
 Dataset includes:
 
 Patient details (age, gender, admission/discharge date)
